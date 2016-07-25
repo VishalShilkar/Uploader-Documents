@@ -1,0 +1,12 @@
+** Basic Requrement **
+1. Need Database.
+2. Need UI to accpet excel from User.
+3. Need logic to handle all basic validations.
+4. Need mechanism to map database columns with excel columns.
+5. Need to handle relationships within database while uploading data.
+6. Need Logging mechanism.
+7. Need clarity of uplod.
+8. Need fast performance.
+
+
+** 
